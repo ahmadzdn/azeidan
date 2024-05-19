@@ -1,0 +1,7 @@
+{
+  "name": "ahmad-zeidan/portfolio",
+  "description": "Ahmad Zeidan Portfolio",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
